@@ -1,48 +1,47 @@
 # Youssef Ben Mahmoud
 
-**AI Architect · Former CTO · Founder of [SFAX.io](https://sfax.io)**
+**AI architect and former CTO. I build LLM systems that companies actually run.**
 
-I design, evaluate, and industrialize generative and agentic AI for enterprise teams, from opportunity scoping through evaluation and production monitoring.
+I run [SFAX.io](https://sfax.io), a small applied AI practice. Most of my work is getting an AI idea from "would this help?" to something in production that a team trusts enough to use daily.
 
 [sfax.io](https://sfax.io) · [LinkedIn](https://www.linkedin.com/in/youssbm) · [Writing](https://youssbm.medium.com)
 
 ---
 
-### What I work on
+### What I do
 
-| Area | In practice |
-| --- | --- |
-| **Agents & orchestration** | Multi-agent fleets on MCP (Anthropic) and A2A (Google): tool use, scoped memory, human-in-the-loop approval gates |
-| **RAG & retrieval** | Semantic search over proprietary data: embeddings, chunking, vector stores, citation-backed answers |
-| **Evaluation** | Benchmark suites comparing accuracy, latency and cost across Claude, GPT, Gemini and DeepSeek to drive model selection |
-| **Governance** | Identity, access control, immutable audit trails, cost controls. SOC 2 and ISO requirements turned into production design patterns |
+**Agents.** Multi-agent systems on MCP and A2A. The hard part is rarely the model. It is tool permissions, memory scope, and knowing when a human should approve the next step.
 
-### Selected results
+**Retrieval.** Search over company data: embeddings, chunking, vector stores, and answers that cite where they came from.
 
-- **-60%** analyst research time: multi-step LLM pipeline over earnings filings, macro feeds and alternative news, generating structured investment memos for a $50M AUM hedge fund
-- **$50k/week** of manual processing errors eliminated: end-to-end finance automation (payout reconciliation, invoicing, disputes) at a EUR 4M-seed hospitality platform
-- **EUR 600k/month** financing volume: open banking data pipeline for cash-flow analysis and credit underwriting
+**Evals.** Benchmarks that compare accuracy, latency and cost across Claude, GPT, Gemini and DeepSeek, so picking a model is a decision and not a hunch.
 
-### Track record
+**Governance.** Identity, access control, audit trails, cost caps. I turn SOC 2 and ISO requirements into things engineers can actually implement.
 
-- **Founder & AI Architect**, [SFAX.io](https://sfax.io) (2025 to present)
-- **CTO**, Impactfull Partners, hedge fund with $50M AUM (2023 to 2025)
-- **Tech Lead**, SOUS (2024 to 2025)
-- **Co-Founder & CTO**, Netarage (2022 to 2023)
-- **Entrepreneur in Residence**, Antler · EF · Startupbootcamp (2019 to 2022)
+### Things I have shipped
 
-### Selected work
+- Cut analyst research time by 60% at a $50M AUM hedge fund. The pipeline reads earnings filings, macro feeds and news, then drafts investment memos.
+- Removed $50k a week of manual processing errors at a EUR 4M-seed hospitality company: payout reconciliation, invoicing, disputes, all automated.
+- Reached EUR 600k a month in financing volume at Netarage, on an open banking pipeline for cash-flow analysis and underwriting.
 
-- **[opencode-goal-plugin](https://github.com/youssefbm2008/opencode-goal-plugin)** - Codex-style long-running goal mode for AI coding agents: `/goal` commands, persistent objectives, completion evidence, TUI status. *TypeScript*
-- **[Zero-Knowledge-Proofs-MVP-API](https://github.com/youssefbm2008/Zero-Knowledge-Proofs-MVP-API)** - SDK design making zero-knowledge assertions usable by non-expert developers. *Python*
-- **[Multi-Object-Tracking](https://github.com/youssefbm2008/Multi-Object-Tracking)** - KCF-based long-term face tracking with automatic re-lock after occlusion. *Python*
-- **[Multi-scale finite elements for homogenization](https://github.com/youssefbm2008/A-SHORT-AND-VARSATILE-FINITE-ELEMENT-MULTI-SCALE-CODE-FOR-HOMOGENIZATION-PROBLEMS)** - Research implementation from my M.S. at ENSTA Paris. *MATLAB*
+### Where I have worked
 
-### Writing & recognition
+- Founder and AI Architect, [SFAX.io](https://sfax.io), 2025 to now
+- CTO, Impactfull Partners, a $50M AUM hedge fund, 2023 to 2025
+- Tech Lead, SOUS, 2024 to 2025
+- Co-Founder and CTO, Netarage, 2022 to 2023
+- Entrepreneur in Residence, Antler, EF and Startupbootcamp, 2019 to 2022
 
-- Author of the **State of LLM-Based AI Agents 2025-2026** enterprise research report: adoption patterns, evaluation practice and governance models for production agents
-- **LinkedIn Top AI Voice** (20k+ followers), writing on agent architectures, evaluation and enterprise AI strategy
-- M.S. in AI & Applied Mathematics, **ENSTA Paris** (Institut Polytechnique de Paris), French government full scholarship
+### Code
+
+- **[opencode-goal-plugin](https://github.com/youssefbm2008/opencode-goal-plugin)** Long-running goal mode for AI coding agents: `/goal` commands, persistent objectives, completion evidence, a TUI indicator. TypeScript.
+- **[Zero-Knowledge-Proofs-MVP-API](https://github.com/youssefbm2008/Zero-Knowledge-Proofs-MVP-API)** An SDK that makes zero-knowledge assertions usable by developers who are not cryptographers. Python.
+- **[Multi-Object-Tracking](https://github.com/youssefbm2008/Multi-Object-Tracking)** Face tracking that re-locks the target after occlusion. Python.
+- **[Multi-scale finite elements for homogenization](https://github.com/youssefbm2008/A-SHORT-AND-VARSATILE-FINITE-ELEMENT-MULTI-SCALE-CODE-FOR-HOMOGENIZATION-PROBLEMS)** My M.S. work at ENSTA Paris. MATLAB.
+
+### Writing
+
+I wrote the **State of LLM-Based AI Agents 2025-2026** report on how enterprises adopt, evaluate and govern production agents. LinkedIn Top AI Voice, 20k+ followers. M.S. in AI and Applied Mathematics at ENSTA Paris, on a French government scholarship.
 
 ---
 
