@@ -4,7 +4,7 @@
 
 I design, evaluate, and industrialize generative and agentic AI for enterprise teams — from opportunity scoping through evaluation and production monitoring.
 
-[sfax.io](https://sfax.io) · [LinkedIn](https://www.linkedin.com/in/youssbm) · [Writing](https://youssbm.medium.com) · [youssef.benmahmoud@outlook.com](mailto:youssef.benmahmoud@outlook.com)
+[sfax.io](https://sfax.io) · [LinkedIn](https://www.linkedin.com/in/youssbm) · [Writing](https://youssbm.medium.com)
 
 ---
 
