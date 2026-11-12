@@ -34,10 +34,11 @@ I run [SFAX.io](https://sfax.io), a small applied AI practice. Most of my work i
 
 ### Code
 
-- **[opencode-goal-plugin](https://github.com/youssefbm2008/opencode-goal-plugin)** Long-running goal mode for AI coding agents: `/goal` commands, persistent objectives, completion evidence, a TUI indicator. TypeScript.
-- **[Zero-Knowledge-Proofs-MVP-API](https://github.com/youssefbm2008/Zero-Knowledge-Proofs-MVP-API)** An SDK that makes zero-knowledge assertions usable by developers who are not cryptographers. Python.
-- **[Multi-Object-Tracking](https://github.com/youssefbm2008/Multi-Object-Tracking)** Face tracking that re-locks the target after occlusion. Python.
-- **[Multi-scale finite elements for homogenization](https://github.com/youssefbm2008/A-SHORT-AND-VARSATILE-FINITE-ELEMENT-MULTI-SCALE-CODE-FOR-HOMOGENIZATION-PROBLEMS)** My M.S. work at ENSTA Paris. MATLAB.
+- **[agent-dream](https://github.com/youssbm/agent-dream)** An MCP server that verifies and organizes durable memory for coding agents using their past sessions. TypeScript.
+- **[opencode-goal-plugin](https://github.com/youssbm/opencode-goal-plugin)** Long-running goal mode for AI coding agents: `/goal` commands, persistent objectives, completion evidence, a TUI indicator. TypeScript.
+- **[Zero-Knowledge-Proofs-MVP-API](https://github.com/youssbm/Zero-Knowledge-Proofs-MVP-API)** An SDK that makes zero-knowledge assertions usable by developers who are not cryptographers. Python.
+- **[Multi-Object-Tracking](https://github.com/youssbm/Multi-Object-Tracking)** Face tracking that re-locks the target after occlusion. Python.
+- **[Multi-scale finite elements for homogenization](https://github.com/youssbm/A-SHORT-AND-VARSATILE-FINITE-ELEMENT-MULTI-SCALE-CODE-FOR-HOMOGENIZATION-PROBLEMS)** My M.S. work at ENSTA Paris. MATLAB.
 
 ### Writing
 
